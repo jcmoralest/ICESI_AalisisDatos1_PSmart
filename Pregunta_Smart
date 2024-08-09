@@ -1,0 +1,17 @@
+1. Describe claramente el problema para la organización incluyendo el indicador que podría mejorarse
+
+¿Que porcentaje de usuarios de Buró de credito en Colombia puede mejorar su puntaje crediticioen almenos 50 puntos, siguiendo un programa de educacion financira especifico, dentro de los proximos seis meses?
+
+2. Justifica porqué puede ser resuelto con ciencia de datos o IA, incluyendo los tipos de datos, y el tipo de problema que puede resolverse. 
+
+Se puede usar IA y ciencia de datos analizando los datos crediticios de los historicos de los usuarios del Buro de Credito. Estopermitira identificar patrones y comportamientos finacieros comunes que han llevado a mejoras o dererioros en los punajes crediticios. Pdemos buscar segmentar con IA a los usuarios en diferentes perfiles y personalizar el programa de educacion financiera.
+Esto puede ayuda brindar tutorias inteligentes basadas en IA que ofrezca recomendaciones en tiempo real, a travez de simulaciones de decisiones financieras y respuestas a preguntas frecuentes. Con esto podemos ayudar a las personas a entender como ciertas acciones pueden ipactar su puntaje crediticio.
+
+
+3. La pregunta propuesta cumple con los parámetros para ser SMART ( Específica, medible, accionable, con temporalidad)
+
+Especifica: Porcentaje de usuarios que mejoran su puntaje crediticio 
+Medible: Aumento de almenos 50 puntos en el puntaje crediticio
+Accionable: Mediante un programa de educacion financiera especifico.
+Relevane: Mejora en la solvencia crediticia de los usuarios.
+temporalidad: seis meses.
